@@ -1,0 +1,9 @@
+com\scratchpad\controller\UserManagementController.class
+com\scratchpad\configuration\SwaggerConfig.class
+com\scratchpad\manager\UserDetailsManagementManagerImpl.class
+com\scratchpad\configuration\BeanConfig.class
+com\scratchpad\manager\UserDetailsManagementManager.class
+com\scratchpad\repository\UserDetailsRepository.class
+com\scratchpad\entity\UserDetails.class
+com\scratchpad\Application.class
+com\scratchpad\repository\rowmapper\UserDetailstModelRowMapper.class
